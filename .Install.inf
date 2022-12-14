@@ -31,8 +31,8 @@ Location Select.cur
 Person Select.cur
 
 [Strings]
-CUR_DIR       = "Windows\Cursors\DiamOS"
-SCHEME_NAME   = "DiamOS"
+CUR_DIR       = "Windows\Cursors\MacOS"
+SCHEME_NAME   = "MacOS"
 pointer       = "Normal Select.cur"
 help          = "Help Select.cur"
 work          = "Working In Background.ani"
